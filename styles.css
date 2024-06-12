@@ -176,6 +176,19 @@ nav ul li a:hover {
     }
 }
 
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .hero-content p {
+        font-size: 20px;
+    }
+
+    .hero-content .cta {
+        padding: 10px 20px;
+    }
+}
 /* About section styles */
 #about {
     padding: 100px 20px;
